@@ -1,4 +1,11 @@
+📌 Project Overview / Proje Hakkında
+
+English: This project performs a comprehensive Exploratory Data Analysis (EDA) on a supermarket sales dataset containing 1,000 transactions. The goal is to uncover hidden patterns in sales performance, customer demographics, and purchasing trends to provide actionable business insights.
+
+Türkçe: Bu proje, 1.000 adet işlem içeren bir süpermarket satış veri seti üzerinde kapsamlı bir Keşifçi Veri Analizi (EDA) gerçekleştirmektedir. Temel amaç; satış performansı, müşteri demografisi ve satın alma eğilimlerindeki gizli kalıpları ortaya çıkararak aksiyon alınabilir iş içgörüleri sunmaktır.
+
 📊 Key Findings / Temel Bulgular
+
 1. Revenue Performance / Ciro Performansı
 Top City: Naypyitaw (Branch C) lead the revenue with approximately $110,568.
 
@@ -52,3 +59,8 @@ Open the .ipynb file in Google Colab or Jupyter Notebook / .ipynb dosyasını Co
 Implementing Statistical Testing (ANOVA) to verify the significance of revenue differences between branches.
 
 Developing a Time Series Forecasting model to predict future sales trends.
+
+💡 "Senior" Tavsiyesi:
+Bu dosyayı GitHub'a eklerken, analizinden aldığın en güzel grafiği (örneğin saatlik satış trendi veya cinsiyet bazlı ürün tercihi grafiği) bir resim olarak kaydedip README içerisine eklemek projeyi çok daha profesyonel gösterir.
+
+Reponu oluşturup bu README'yi eklediğinde haber ver, "About" (Hakkında) kısmını da küçük bir dokunuşla parlatıp bu projeyi tamamlayalım!
