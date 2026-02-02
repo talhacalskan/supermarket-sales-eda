@@ -60,7 +60,8 @@ Implementing Statistical Testing (ANOVA) to verify the significance of revenue d
 
 Developing a Time Series Forecasting model to predict future sales trends.
 
-💡 "Senior" Tavsiyesi:
-Bu dosyayı GitHub'a eklerken, analizinden aldığın en güzel grafiği (örneğin saatlik satış trendi veya cinsiyet bazlı ürün tercihi grafiği) bir resim olarak kaydedip README içerisine eklemek projeyi çok daha profesyonel gösterir.
 
-Reponu oluşturup bu README'yi eklediğinde haber ver, "About" (Hakkında) kısmını da küçük bir dokunuşla parlatıp bu projeyi tamamlayalım!
+
+
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/c02e3ac6-e300-4f08-ab0d-b6d6f0801791" />
+
